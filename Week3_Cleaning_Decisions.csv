@@ -1,0 +1,7 @@
+Issue,Decision
+Missing base price,Investigate original auction record
+Missing final price,Verify auction status and price
+Missing player role,Verify reliable player information
+Missing nationality,Verify reliable player information
+Potential outliers,Investigate before changing values
+Exact duplicate rows,No duplicates found in earlier check

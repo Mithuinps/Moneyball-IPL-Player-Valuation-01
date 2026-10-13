@@ -1,0 +1,4 @@
+Column,Lower_Bound,Upper_Bound,Outlier_Count
+year,2001.0,2033.0,0
+base_price_lakh,-85.0,195.0,19
+final_price_lakh,-507.5,952.5,181
