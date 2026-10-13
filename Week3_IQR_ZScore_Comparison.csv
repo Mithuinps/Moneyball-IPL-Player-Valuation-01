@@ -1,0 +1,4 @@
+Column,Outlier_Count_IQR,Outlier_Count_ZScore
+base_price_lakh,19,0.0
+final_price_lakh,181,66.0
+year,0,

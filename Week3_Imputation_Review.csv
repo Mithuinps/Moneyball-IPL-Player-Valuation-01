@@ -1,0 +1,12 @@
+Column,Missing_Before,Missing_After,Action
+year,0,0,Review each column before filling missing values
+player_id,72,72,Review each column before filling missing values
+player_name,0,0,Review each column before filling missing values
+team,0,0,Review each column before filling missing values
+base_price_lakh,2348,2348,Review each column before filling missing values
+final_price_lakh,303,303,Review each column before filling missing values
+role,1275,1275,Review each column before filling missing values
+nationality,1123,1123,Review each column before filling missing values
+status,0,0,Review each column before filling missing values
+acquisition_type,0,0,Review each column before filling missing values
+source,0,0,Review each column before filling missing values

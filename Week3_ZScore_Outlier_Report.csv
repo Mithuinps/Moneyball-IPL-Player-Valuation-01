@@ -1,0 +1,3 @@
+Column,Valid_Values,Outlier_Count,Z_Score_Threshold
+base_price_lakh,352,0,3
+final_price_lakh,2397,66,3
