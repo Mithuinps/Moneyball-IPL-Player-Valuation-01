@@ -1,0 +1,5 @@
+Column,Missing_Values,Action
+base_price_lakh,2348,Keep missing until verified from a reliable source
+final_price_lakh,303,Keep missing until verified from a reliable source
+role,1275,Recover from a reliable source if available; otherwise keep missing
+nationality,1123,Recover from a reliable source if available; otherwise keep missing
